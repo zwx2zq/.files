@@ -2,4 +2,4 @@
 
 set -ex
 
-stow -t ~ tmux nvim alacritty
+stow -t ~ tmux nvim alacritty electron
