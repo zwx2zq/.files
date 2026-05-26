@@ -61,6 +61,6 @@ cmp.build():wait(60000)
 cmp.setup({
     keymap = {
         preset = "default",
-        ["<Cr>"] = { "select_and_accept" }
+        ["<Cr>"] = { "select_and_accept", "fallback" }
     }
 })
