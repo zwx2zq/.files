@@ -2,4 +2,4 @@
 
 set -ex
 
-stow -t ~ tmux
+stow -t ~ tmux nvim
