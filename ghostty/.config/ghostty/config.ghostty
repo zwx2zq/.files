@@ -1,0 +1,10 @@
+language = en
+
+font-family = "JetBrainsMono NFM Medium"
+font-family-bold = "JetBrainsMono NFM Bold"
+font-family-italic = "JetBrainsMono NFM Italic"
+font-family-bold-italic = "JetBrainsMono NFM Bold Italic"
+font-size = 12
+
+# turn off auto update check as ghostty is managed by Homebrew
+auto-update = off
