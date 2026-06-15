@@ -1,2 +1,6 @@
 [general]
 live_config_reload = true
+
+[colors.primary]
+foreground = "#c7c7c7"
+background = "#1c1c1c"
