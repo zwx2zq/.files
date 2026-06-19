@@ -20,4 +20,6 @@ vim.pack.add({
     "https://github.com/mason-org/mason.nvim",
 })
 
+vim.api.nvim_set_keymap("n", "<Leader>fe", ":Ex<Cr>", { noremap = true })
+
 require("lsp")
