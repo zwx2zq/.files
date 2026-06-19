@@ -2,4 +2,4 @@
 
 set -ex
 
-stow -t ~ tmux nvim alacritty electron ghostty sway
+stow -t ~ tmux nvim alacritty electron ghostty sway kitty
